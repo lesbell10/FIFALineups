@@ -76,19 +76,19 @@ function updatePlayerInfo() {
         DL.textContent = "J Cancelo";
         GK.textContent = "Courtois";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "2") {
@@ -105,19 +105,19 @@ function updatePlayerInfo() {
         DL.textContent = "J Cancelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "3") {
@@ -134,19 +134,19 @@ function updatePlayerInfo() {
         DL.textContent = "Robertson";
         GK.textContent = "Oblak";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "4") {
@@ -163,19 +163,19 @@ function updatePlayerInfo() {
         DL.textContent = "Alba";
         GK.textContent = "Oblak";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "5") {
@@ -192,19 +192,19 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "De Gea";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "6") {
@@ -221,19 +221,19 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "7") {
@@ -250,19 +250,19 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "8") {
@@ -279,19 +279,19 @@ function updatePlayerInfo() {
         DL.textContent = "Marcelo";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "9") {
@@ -308,19 +308,19 @@ function updatePlayerInfo() {
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "10") {
@@ -337,19 +337,19 @@ function updatePlayerInfo() {
         DL.textContent = "Lahm";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "11") {
@@ -366,19 +366,19 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Casillas";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "12") {
@@ -395,19 +395,19 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Neuer";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "13") {
@@ -424,19 +424,19 @@ function updatePlayerInfo() {
         DL.textContent = "Evra";
         GK.textContent = "Casillas";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "14") {
@@ -453,19 +453,19 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Buffon";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "15") {
@@ -482,19 +482,19 @@ function updatePlayerInfo() {
         DL.textContent = "Lahm";
         GK.textContent = "Casillas";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "16") {
@@ -511,19 +511,19 @@ function updatePlayerInfo() {
         DL.textContent = "Zanetti";
         GK.textContent = "Buffon";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "17") {
@@ -540,19 +540,19 @@ function updatePlayerInfo() {
         DL.textContent = "Abidal";
         GK.textContent = "Buffon";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "18") {
@@ -569,19 +569,19 @@ function updatePlayerInfo() {
         DL.textContent = "A Cole";
         GK.textContent = "Casillas";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "19") {
@@ -598,19 +598,19 @@ function updatePlayerInfo() {
         DL.textContent = "Maldini";
         GK.textContent = "Buffon";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "20") {
@@ -627,19 +627,19 @@ function updatePlayerInfo() {
         DL.textContent = "R Carlos";
         GK.textContent = "Buffon";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "21") {
@@ -656,19 +656,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "22") {
@@ -685,19 +685,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "23") {
@@ -714,19 +714,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "24") {
@@ -743,19 +743,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "25") {
@@ -772,19 +772,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "26") {
@@ -801,19 +801,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "27") {
@@ -830,19 +830,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "28") {
@@ -859,19 +859,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "29") {
@@ -888,19 +888,19 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 
     if (selectedYear == "30") {
@@ -917,18 +917,18 @@ function updatePlayerInfo() {
         DL.textContent = "";
         GK.textContent = "";
 
-        STC2.src = "/img/players/" + STC.textContent + ".webp";
-        FR2.src = "/img/players/" + FR.textContent + ".webp";
-        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-        FL2.src = "/img/players/" + FL.textContent + ".webp";
-        CMR2.src = "/img/players/" + CMR.textContent + ".webp";
-        CML2.src = "/img/players/" + CML.textContent + ".webp";
-        DR2.src = "/img/players/" + DR.textContent + ".webp";
-        DCR2.src = "/img/players/" + DCR.textContent + ".webp";
-        DCL2.src = "/img/players/" + DCL.textContent + ".webp";
-        DL2.src = "/img/players/" + DL.textContent + ".webp";
-        GK2.src = "/img/players/" + GK.textContent + ".webp";
+        STC2.src = "/Football/img/players/" + STC.textContent + ".webp";
+        FR2.src = "/Football/img/players/" + FR.textContent + ".webp";
+        AMC2.src = "/Football/img/players/" + AMC.textContent + ".webp";
+        FL2.src = "/Football/img/players/" + FL.textContent + ".webp";
+        CMR2.src = "/Football/img/players/" + CMR.textContent + ".webp";
+        CML2.src = "/Football/img/players/" + CML.textContent + ".webp";
+        DR2.src = "/Football/img/players/" + DR.textContent + ".webp";
+        DCR2.src = "/Football/img/players/" + DCR.textContent + ".webp";
+        DCL2.src = "/Football/img/players/" + DCL.textContent + ".webp";
+        DL2.src = "/Football/img/players/" + DL.textContent + ".webp";
+        GK2.src = "/Football/img/players/" + GK.textContent + ".webp";
 
-        smallpic.src = "/img/logos/.webp";
+        smallpic.src = "/Football/img/logos/.webp";
     }
 }
