@@ -1,0 +1,215 @@
+*, html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: linear-gradient(-45deg, grey 30%, lime 70%);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    opacity:1;
+    position: relative;
+}
+
+select {
+    padding: 10px;
+    display: flex;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 32%;
+    margin-left: 4%;
+    background-color: white;
+    box-shadow: -5px 5px 10px grey;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+option {
+    font-weight: bold;
+}
+
+   .carousel { 
+    font-weight: bold;
+    font-size:25px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.carousel-item p {
+    color:black;
+    font-size: 32px;
+    padding: 0 7px;
+    transition: .5s; 
+    border-radius: 7px;
+}
+
+.carousel img {
+    height: 13%;
+    cursor: pointer;
+    border-radius: 11px;
+    width: 107.81px;
+    transition: .5s; 
+
+}
+
+#smallpic {
+    position: absolute;
+    top: 38%;
+    left: 7%;
+    border-radius: 20px;
+        object-fit: cover;
+}
+
+.label {
+    margin-top: 110px;
+    margin-left: 4.5%;
+    font-size: 32px;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+#STC {
+    position: absolute;
+    left: 57.75%;
+    top: 19%;
+}
+
+#STC2 {
+    position: absolute;
+    left: 57.75%;
+    top: 6%;
+}
+
+#FR {
+    position: absolute;
+    left: 79%;
+    top: 38%;
+}
+
+#FR2 {
+    position: absolute;
+    left: 79%;
+    top: 25%;
+}
+
+#AMC {
+    position: absolute;
+    left: 57.75%;
+    top: 38%;
+}
+
+#AMC2 {
+    position: absolute;
+    left: 57.75%;
+    top: 25%;
+}
+
+#FL {
+    position: absolute;
+    left: 37%;
+    top: 38%;
+}
+
+#FL2 {
+    position: absolute;
+    left: 37%;
+    top: 25%;
+}
+
+#CMR {
+    position: absolute;
+    left: 65%;
+    top: 56%;
+}
+
+#CMR2 {
+    position: absolute;
+    left: 65%;
+    top: 43%;
+}
+
+#CML {
+    position: absolute;
+    left: 51%;
+    top: 56%;
+}
+
+#CML2 {
+    position: absolute;
+    left: 51%;
+    top: 43%;
+}
+
+#DR {
+    position: absolute;
+    left: 79%;
+    top: 73.5%;
+}
+
+#DR2 {
+    position: absolute;
+    left: 79%;
+    top: 60.5%;
+}
+
+#DCR {
+    position: absolute;
+    left: 65%;
+    top: 73.5%;
+}
+
+#DCR2 {
+    position: absolute;
+    left: 65%;
+    top: 60.5%;
+}
+
+#DCL {
+    position: absolute;
+    left: 51%;
+    top: 73.5%;
+}
+
+#DCL2 {
+    position: absolute;
+    left: 51%;
+    top: 60.5%;
+}
+
+#DL {
+    position: absolute;
+    left: 37%;
+    top: 73.5%;
+}
+
+#DL2 {
+    position: absolute;
+    left: 37%;
+    top: 60.5%;
+}
+
+#GK {
+    position: absolute;
+    left: 57.75%;
+    top: 92%;
+}
+
+#GK2 {
+    position: absolute;
+    left: 57.75%;
+    top: 79%;
+}
