@@ -422,3 +422,29 @@ export function three_four_one_two(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11)
     GK.textContent = n1
     GK2.src = "/img/players/" + GK.textContent + ".webp";
 }
+
+export function three_five_two(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
+    clearFields();
+    STL.textContent = n9
+    STL2.src = "/img/players/" + STL.textContent + ".webp";
+    STR.textContent = n11
+    STR2.src = "/img/players/" + STR.textContent + ".webp";
+    WL.textContent = n3
+    WL2.src = "/img/players/" + WL.textContent + ".webp";
+    LCM.textContent = n8
+    LCM2.src = "/img/players/" + LCM.textContent + ".webp";
+    CM.textContent = n7
+    CM2.src = "/img/players/" + CM.textContent + ".webp";
+    RCM.textContent = n10
+    RCM2.src = "/img/players/" + RCM.textContent + ".webp";
+    WR.textContent = n2
+    WR2.src = "/img/players/" + WR.textContent + ".webp";
+    LCB.textContent = n4
+    LCB2.src = "/img/players/" + LCB.textContent + ".webp";
+    CB.textContent = n6
+    CB2.src = "/img/players/" + CB.textContent + ".webp";
+    RCB.textContent = n5
+    RCB2.src = "/img/players/" + RCB.textContent + ".webp";
+    GK.textContent = n1
+    GK2.src = "/img/players/" + GK.textContent + ".webp";
+}

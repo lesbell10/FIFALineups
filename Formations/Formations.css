@@ -106,16 +106,16 @@ option {
 .RWB2 { top: 53.5%; left: 89%; }
 .LB { top: 80.5%; left: 0%; }
 .LB2 { top: 59%; left: 0%; }
-.LCB { top: 83.5%; left: 28%; }
-.LCB2 { top: 62%; left: 28%; }
-.CB { top: 83.5%; left: 45%; }
-.CB2 { top: 62%; left: 45%; }
-.RCB { top: 83.5%; right: 28%; }
-.RCB2 { top: 62%; right: 28%; }
+.LCB { top: 86.5%; left: 28%; }
+.LCB2 { top: 65%; left: 28%; }
+.CB { top: 86.5%; left: 45%; }
+.CB2 { top: 65%; left: 45%; }
+.RCB { top: 86.5%; right: 28%; }
+.RCB2 { top: 65%; right: 28%; }
 .RB { top: 80.5%; left: 89%; }
 .RB2 { top: 59%; left: 89%; }
-.GK { top: 110.5%; left: 45%; }
-.GK2 { top: 89%; left: 45%; }
+.GK { top: 113.5%; left: 45%; }
+.GK2 { top: 92%; left: 45%; }
 
 img {
     border-radius: 15px;
@@ -176,6 +176,11 @@ button {
 
 .three-four-one-two {
     top: 160px;
+    left: 300px;
+}
+
+.three-five-two {
+    top: 240px;
     left: 300px;
 }
 

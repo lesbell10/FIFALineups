@@ -7,6 +7,8 @@ import {
     four_three_two_one,
     three_four_two_one,
     three_four_three,
+    three_four_one_two,
+    three_five_two, 
     baseTwo
 } from '/Formations/Formations.js'
 
@@ -19,6 +21,7 @@ const fourThreeTwoOne = document.querySelector('.four-three-two-one')
 const threeFourTwoOne = document.querySelector('.three-four-two-one')
 const threeFourThree = document.querySelector('.three-four-three')
 const threeFourOneTwo = document.querySelector('.three-four-one-two')
+const threeFiveTwo = document.querySelector('.three-five-two')
 
 const base_Two = document.querySelector('.baseTwo')
 
@@ -55,10 +58,12 @@ threeFourThree.addEventListener('click', () => {
 })
 
 threeFourOneTwo.addEventListener('click', () => {
-    three_four_three('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
+    three_four_one_two('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
 })
 
-
+threeFiveTwo.addEventListener('click', () => {
+    three_five_two('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
+})
 
 base_Two.addEventListener('click', () => {
     baseTwo()
