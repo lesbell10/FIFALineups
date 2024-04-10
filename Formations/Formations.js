@@ -47,6 +47,8 @@ const RB2 = document.querySelector('.RB2');
 const GK = document.querySelector('.GK');
 const GK2 = document.querySelector('.GK2');
 
+const isFalseNine = false;
+
 function clearFields() {
     STL.textContent = "";
     STL2.src = null;
@@ -98,84 +100,88 @@ function clearFields() {
     GK2.src = null;
 }
 
-function base() {
-    STL.textContent = "";
-    STL2.src = "/img/players/" + STL.textContent + ".webp";
-    STC.textContent = "";
-    STC2.src = "/img/players/" + STC.textContent + ".webp";
-    STR.textContent = "";
-    STR2.src = "/img/players/" + STR.textContent + ".webp";
-    LW.textContent = "";
-    LW2.src = "/img/players/" + LW.textContent + ".webp";
-    AMLC.textContent = "";
-    AMLC2.src = "/img/players/" + AMLC.textContent + ".webp";
-    AMC.textContent = "";
-    AMC2.src = "/img/players/" + AMC.textContent + ".webp";
-    AMRC.textContent = "";
-    AMRC2.src = "/img/players/" + AMRC.textContent + ".webp";
-    RW.textContent = "";
-    RW2.src = "/img/players/" + RW.textContent + ".webp";
-    WL.textContent = "";
-    WL2.src = "/img/players/" + WL.textContent + ".webp";
-    LCM.textContent = "";
-    LCM2.src = "/img/players/" + LCM.textContent + ".webp";
-    CM.textContent = "";
-    CM2.src = "/img/players/" + CM.textContent + ".webp";
-    RCM.textContent = "";
-    RCM2.src = "/img/players/" + RCM.textContent + ".webp";
-    WR.textContent = "";
-    WR2.src = "/img/players/" + WR.textContent + ".webp";
-    LWB.textContent = "";
-    LWB2.src = "/img/players/" + LWB.textContent + ".webp";
-    LDM.textContent = "";
-    LDM2.src = "/img/players/" + LDM.textContent + ".webp";
-    DM.textContent = "";
-    DM2.src = "/img/players/" + DM.textContent + ".webp";
-    RDM.textContent = "";
-    RDM2.src = "/img/players/" + RDM.textContent + ".webp";
-    RWB.textContent = "";
-    RWB2.src = "/img/players/" + RWB.textContent + ".webp";
-    LB.textContent = "";
-    LB2.src = "/img/players/" + LB.textContent + ".webp";
-    LCB.textContent = "";
-    LCB2.src = "/img/players/" + LCB.textContent + ".webp";
-    CB.textContent = "";
-    CB2.src = "/img/players/" + CB.textContent + ".webp";
-    RCB.textContent = "";
-    RCB2.src = "/img/players/" + RCB.textContent + ".webp";
-    RB.textContent = "";
-    RB2.src = "/img/players/" + RB.textContent + ".webp";
-    GK.textContent = "";
-    GK2.src = "/img/players/" + GK.textContent + ".webp";
+export function base(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
+    clearFields();
+    STL.textContent =
+        STL2.src = "/img/players/" + STL.textContent + ".webp";
+    STC.textContent =
+        STC2.src = "/img/players/" + STC.textContent + ".webp";
+    STR.textContent =
+        STR2.src = "/img/players/" + STR.textContent + ".webp";
+    LW.textContent =
+        LW2.src = "/img/players/" + LW.textContent + ".webp";
+    AMLC.textContent =
+        AMLC2.src = "/img/players/" + AMLC.textContent + ".webp";
+    AMC.textContent =
+        AMC2.src = "/img/players/" + AMC.textContent + ".webp";
+    AMRC.textContent =
+        AMRC2.src = "/img/players/" + AMRC.textContent + ".webp";
+    RW.textContent =
+        RW2.src = "/img/players/" + RW.textContent + ".webp";
+    WL.textContent =
+        WL2.src = "/img/players/" + WL.textContent + ".webp";
+    LCM.textContent =
+        LCM2.src = "/img/players/" + LCM.textContent + ".webp";
+    CM.textContent =
+        CM2.src = "/img/players/" + CM.textContent + ".webp";
+    RCM.textContent =
+        RCM2.src = "/img/players/" + RCM.textContent + ".webp";
+    WR.textContent =
+        WR2.src = "/img/players/" + WR.textContent + ".webp";
+    LWB.textContent =
+        LWB2.src = "/img/players/" + LWB.textContent + ".webp";
+    LDM.textContent =
+        LDM2.src = "/img/players/" + LDM.textContent + ".webp";
+    DM.textContent =
+        DM2.src = "/img/players/" + DM.textContent + ".webp";
+    RDM.textContent =
+        RDM2.src = "/img/players/" + RDM.textContent + ".webp";
+    RWB.textContent =
+        RWB2.src = "/img/players/" + RWB.textContent + ".webp";
+    LB.textContent =
+        LB2.src = "/img/players/" + LB.textContent + ".webp";
+    LCB.textContent =
+        LCB2.src = "/img/players/" + LCB.textContent + ".webp";
+    CB.textContent =
+        CB2.src = "/img/players/" + CB.textContent + ".webp";
+    RCB.textContent =
+        RCB2.src = "/img/players/" + RCB.textContent + ".webp";
+    RB.textContent =
+        RB2.src = "/img/players/" + RB.textContent + ".webp";
+    GK.textContent =
+        GK2.src = "/img/players/" + GK.textContent + ".webp";
 }
 
-export function four_two_three_one(n1, n2,  n3,  n4,  n5,  n6,  n7,  n8,  n9,  n10,  n11) {
+export function four_two_three_one(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
     clearFields();
     STC.textContent = n9
     STC2.src = "/img/players/" + STC.textContent + ".webp";
     LW.textContent = n11
-    LW2.src = "/img/players/" + LW.textContent + ".webp"; 
+    LW2.src = "/img/players/" + LW.textContent + ".webp";
     AMC.textContent = n10
-    AMC2.src = "/img/players/" + AMC.textContent + ".webp"; 
+    AMC2.src = "/img/players/" + AMC.textContent + ".webp";
     RW.textContent = n7
-    RW2.src = "/img/players/" + RW.textContent + ".webp"; 
+    RW2.src = "/img/players/" + RW.textContent + ".webp";
     LCM.textContent = n6
-    LCM2.src = "/img/players/" + LCM.textContent + ".webp"; 
+    LCM2.src = "/img/players/" + LCM.textContent + ".webp";
     RCM.textContent = n8
-    RCM2.src = "/img/players/" + RCM.textContent + ".webp"; 
+    RCM2.src = "/img/players/" + RCM.textContent + ".webp";
     LB.textContent = n3
-    LB2.src = "/img/players/" + LB.textContent + ".webp"; 
+    LB2.src = "/img/players/" + LB.textContent + ".webp";
     LCB.textContent = n4
-    LCB2.src = "/img/players/" + LCB.textContent + ".webp"; 
+    LCB2.src = "/img/players/" + LCB.textContent + ".webp";
     RCB.textContent = n5
-    RCB2.src = "/img/players/" + RCB.textContent + ".webp"; 
+    RCB2.src = "/img/players/" + RCB.textContent + ".webp";
     RB.textContent = n2
-    RB2.src = "/img/players/" + RB.textContent + ".webp"; 
+    RB2.src = "/img/players/" + RB.textContent + ".webp";
     GK.textContent = n1
-    GK2.src = "/img/players/" + GK.textContent + ".webp"; 
+    GK2.src = "/img/players/" + GK.textContent + ".webp";
 }
 
 export function four_three_three(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
+
+    isFalseNine = false
+
     clearFields();
     STC.textContent = n9
     STC2.src = "/img/players/" + STC.textContent + ".webp";
@@ -203,12 +209,74 @@ export function four_three_three(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
 
 export function four_three_three_false_nine(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
     clearFields();
-    STC.textContent = n9
-    STC2.src = "/img/players/" + STC.textContent + ".webp";
+    isFalseNine = true
+
+    if (isFalseNine) {
+        LW.style.top = - "24%"
+        LW2.style.top = '3%';
+    } else {
+        LW.style.top = - "31%"
+        LW2.style.top = '10%';
+    }
+
     LW.textContent = n11
     LW2.src = "/img/players/" + LW.textContent + ".webp";
+    AMC.textContent = n9
+    AMC2.src = "/img/players/" + AMC.textContent + ".webp";
     RW.textContent = n7
     RW2.src = "/img/players/" + RW.textContent + ".webp";
+    LCM.textContent = n10
+    LCM2.src = "/img/players/" + LCM.textContent + ".webp";
+    RCM.textContent = n8
+    RCM2.src = "/img/players/" + RCM.textContent + ".webp";
+    DM.textContent = n6
+    DM2.src = "/img/players/" + DM.textContent + ".webp";
+    LB.textContent = n3
+    LB2.src = "/img/players/" + LB.textContent + ".webp";
+    LCB.textContent = n4
+    LCB2.src = "/img/players/" + LCB.textContent + ".webp";
+    RCB.textContent = n5
+    RCB2.src = "/img/players/" + RCB.textContent + ".webp";
+    RB.textContent = n2
+    RB2.src = "/img/players/" + RB.textContent + ".webp";
+    GK.textContent = n1
+    GK2.src = "/img/players/" + GK.textContent + ".webp";
+}
+
+export function four_four_two(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
+    clearFields();
+    STL.textContent = n10;
+    STL2.src = "/img/players/" + STL.textContent + ".webp";
+    STR.textContent = n10;
+    STR2.src = "/img/players/" + STR.textContent + ".webp";
+    LW.textContent = n11;
+    LW2.src = "/img/players/" + LW.textContent + ".webp";
+    RW.textContent = n7;
+    RW2.src = "/img/players/" + RW.textContent + ".webp";
+    LCM.textContent = n6;
+    LCM2.src = "/img/players/" + LCM.textContent + ".webp";
+    RCM.textContent = n8;
+    RCM2.src = "/img/players/" + RCM.textContent + ".webp";
+    LB.textContent = n3;
+    LB2.src = "/img/players/" + LB.textContent + ".webp";
+    LCB.textContent = n4;
+    LCB2.src = "/img/players/" + LCB.textContent + ".webp";
+    RCB.textContent = n5;
+    RCB2.src = "/img/players/" + RCB.textContent + ".webp";
+    RB.textContent = n2;
+    RB2.src = "/img/players/" + RB.textContent + ".webp";
+    GK.textContent = n1;
+    GK2.src = "/img/players/" + GK.textContent + ".webp";
+}
+
+export function four_three_one_two(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11) {
+    clearFields();
+    STL.textContent = n9;
+    STL2.src = "/img/players/" + STL.textContent + ".webp";
+    STR.textContent = n11;
+    STR2.src = "/img/players/" + STR.textContent + ".webp";
+    AMC.textContent = n7
+    AMC2.src = "/img/players/" + AMC.textContent + ".webp";
     LCM.textContent = n10
     LCM2.src = "/img/players/" + LCM.textContent + ".webp";
     RCM.textContent = n8

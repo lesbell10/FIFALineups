@@ -1,14 +1,33 @@
-import { four_two_three_one, four_three_three } from '/Formations/Formations.js'
+import {
+    four_two_three_one,
+    four_three_three,
+    four_three_three_false_nine,
+    four_four_two,
+    four_three_one_two
+} from '/Formations/Formations.js'
 
-const fourtwo = document.querySelector('.four-two')
-const fourthree = document.querySelector('.four-three')
+const fourTwoThreeOne = document.querySelector('.four-two-three-one')
+const fourThreeThree = document.querySelector('.four-three-three')
+const fourThreeThreeFalseNine = document.querySelector('.four-three-three-false')
+const fourFourTwo = document.querySelector('.four-four-two')
+const fourThreeOneTwo = document.querySelector('.four-three-one-two')
 
-fourtwo.addEventListener('click', () => {
+fourTwoThreeOne.addEventListener('click', () => {
     four_two_three_one('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
 });
 
-fourthree.addEventListener('click', () => {
+fourThreeThree.addEventListener('click', () => {
     four_three_three('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
 })
 
+fourThreeThreeFalseNine.addEventListener('click', () => {
+    four_three_three_false_nine('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
+})
 
+fourFourTwo.addEventListener('click', () => {
+    four_four_two('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
+})
+
+fourThreeOneTwo.addEventListener('click', () => {
+    four_three_one_two('ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo', 'ronaldo',)
+})
